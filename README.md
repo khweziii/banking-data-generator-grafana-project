@@ -1,6 +1,6 @@
 # Banking Data Generator (Grafana Project)
 
-This project generates synthetic banking transaction data and inserts it into a PostgreSQL database for exploration and visualization (e.g., with Grafana).
+This project generates synthetic banking transaction data and inserts it into a PostgreSQL database for exploration and visualization via Grafana.
 
 **Key points**
 - Generates fake transactions using `Faker`, `pandas`, and `random`.
